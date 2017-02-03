@@ -9,83 +9,88 @@
 	},{
 		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/bi_an_hua.jpg",
 		"name": "彼岸花",
-		"category": "#",
-		"meaning": "#",
-		"detail": "#"
+		"otherName": "曼珠沙华",
+		"category": "植物界石蒜科",
+		"meaning": "彼岸花，花开彼岸，花开时看不到叶子，有叶子时看不到花，花叶两不相见，生生相错。因此，她在日本的花语是「悲伤的回忆」，在韩国的花语则是「相互思念」。曼珠沙华是开在冥界的一种花，也叫彼岸花。诅咒人们生生世世都不能在一起。 “彼岸花开一千年，叶落一千年，花叶永不见。情不为因果，缘注定生死。”象征生死两隔，永不相见。",
+		"efficiency": "彼岸花，恶魔的温柔。传说中自愿投入地狱的花朵，被众魔遣回，但仍徘徊于黄泉路上，众魔不忍，遂同意让她开在此路上，给离开人界的魂们一个指引与安慰。"
 	},{
 		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/chu_ju.png",
 		"name": "雏菊",
-		"category": "#",
-		"meaning": "#",
-		"detail": "#"
+		"otherName": "马头兰花、延命菊，春菊、太阳菊",
+		"category": "菊科植物",
+		"meaning": "雏菊的花语是天真、和平、希望、纯洁的美以及深藏在心底的爱.",
+		"efficiency": "雏菊又叫干菊、白菊，药用价值非常高。它还有挥发油、氨基酸和多种微量元素。其中，黄铜的含量比其他的菊花高32%到61%，锡的含量比其他菊花高八到五十倍。雏菊的叶为匙形丛生呈莲座状，密集矮生，颜色碧翠。从叶间抽出花葶，葶一花，错落排列，外观古朴，花朵娇小玲珑，色彩和谐。从叶间抽出花葶，葶一花，错落排列，外观古朴，花朵娇小玲珑，色彩和谐。早春开花，生气盎然，具有君子的风度和天真烂漫的风采.农学家张履祥，在其著作《补农书》中曾写道：“白菊性甘温，久服最有益，古人春食苗、夏食英、冬食根，有以也。每地棱头种一二株，取其花，可以减茶之半，茶性苦寒与苦菊同泡。"
 	},{
 		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/ding_xiang.jpg",
 		"name": "丁香花",
-		"category": "#",
-		"meaning": "#",
-		"detail": "#"
+		"otherName": "学名：Syringa Linn,百结花、紫丁香、华北丁香",
+		"category": "木犀科丁香属落叶灌木",
+		"meaning": "忧愁思念、光辉，寓意着爱情和暗结同心的希望。",
+		"efficiency": "该属中有不少种类的花是提取香精，配制高级香料的原料；又枝叶繁茂、花色淡雅而清香，故庭园广为栽培供观赏，为庭园中之珍品。欧美对本属进行杂交育种已有近百年的历史，先后曾选育出数百个栽培品种。中国北京植物园也开展了此项研究，目前已培育成紫云 Syringe oblate cv. 'Ziyun'，罗蓝紫 S. oblata cv. 'Luolanzi'，香雪 S. oblate cv. 'Xiangxue', 春阁 S. vulgaris cv. 'Chun'ge' 等新品种。丁香属植物主要应用于园林观赏，因其具有独特的芳香、硕大繁茂之花序、优雅而调和的花色、丰满而秀丽的姿态，在观赏花木中早已享有盛名，已成为全世界园林中不可缺少的花木。可丛植于路边、草坪或向阳坡地，或与其他花木搭配栽植在林缘，也可在庭前、窗外孤植，或将各种丁香穿插配植，布置成丁香专类园。还宜盆栽，并是切花插瓶的良好材料。丁香对二氧化硫及氟化氢等多种有毒气体，都有较强的抗性，故又是工矿区等绿化、美化的良好材料。"
 	},{
 		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/feng_xin_zi.jpg",
 		"name": "风信子",
-		"category": "#",
-		"meaning": "#",
-		"detail": "#"
+		"otherName": "被子植物纲天门冬目风信子科",
+		"category": "洋水仙、西洋水仙、五色水仙、时样锦",
+		"meaning": "风信子花语：胜利、竞技、喜悦、爱意、幸福、浓情、倾慕、顽固、生命、得意、永远的怀念。紫色的风信子：悲伤、妒忌，忧郁的爱（得到我的爱，你一定会幸福快乐）、道歉(对不起，请原谅我）、后悔。蓝色的风信子：恒心、贞操、彷佛见到你一样高兴、高贵浓郁。淡绿风信子：如果你想没有秘密，必先拥有善良的心。象征：只要点燃生命之火，便可同享丰富人生;重生的爱，忘记过去的悲伤，开始崭新的爱。",
+		"efficiency": "传说英俊潇洒的美少年海新瑟斯和太阳神阿波罗是好朋友，而西风之神杰佛瑞斯也很喜欢海新瑟斯，且常为此吃醋，但海新瑟斯总是较喜欢阿波罗且经常和他一起玩乐。有一天，当他们正兴高采烈地在草原上掷铁饼，恰巧被躲在树丛中的杰佛瑞斯发现了，心里很不舒服，想捉弄他们一番。当阿波罗将铁饼掷向海新瑟斯之际，嫉妒的西风之神偷偷地在旁边用力一吹，竟将那沉甸甸的铁饼打在海新瑟斯的额头上，一时之间血流如柱，这名英俊的少年也因此一命呜呼了。阿波罗惊慌之余，心痛地抱起断了气的朋友“唉！唉！”（Ai！Ai！）地叹着气，只见由海新瑟斯的伤口不断地涌出鲜血，落到地面上并流进草丛里。不久之后，草丛间竟开出串串的紫色花，阿波罗为了表示歉意，乃以美少年之名当作花名，我们则直译为“风信子”。紫色的风信子从此被后人认为是“嫉妒”的代言者；希腊语Ai和Aei（“永远”之意）同义，所以风信子也象征“永远的怀念”，欧美人常将风信子的花样雕刻在亲人的墓碑上，以示'永久的怀念'。"
 	},{
 		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/gou_wei_ba_cao.jpg",
 		"name": "狗尾巴草",
-		"category": "#",
-		"meaning": "#",
-		"detail": "#"
+		"otherName": "阿罗汉草、稗子草、狗尾草",
+		"category": "禾本科",
+		"meaning": "坚忍、不被人了解的、艰难的爱，暗恋。把三支狗尾巴草编成麻花辫状，遍成一条，根据手指的大小，然后弯个圈打成结，带到手指上，代表私定终身",
+		"efficiency": "狗尾巴草是仙女下凡时，从天上带下来的爱犬化作的。仙女在人间和一位书生相恋，但却遭到王母娘娘的阻挠，仙女和书生为了在一起，不惜反抗王母娘娘。在对抗的最后的时刻，仙女的爱犬为了救助人而不惜舍弃自己的性命。最终仙女和书生化作了阴阳两块玉佩，在人世间流传。相传相恋的两个人，如果分别获得这两块玉佩，便能有情人终成眷属。仙女的爱犬死后则化作了狗尾巴草，世世代代，传承着对爱情的见证。狗尾巴草秆、叶可作饲料，是牛驴马羊爱吃的植物。秋季的干草还可以作燃料生火烧水做饭，取暖铺床。小穗可提炼糠醛，全草含粗脂肪2.6%，粗蛋白10.27%，无氮浸出物34.55%，粗纤维34.40%，粗灰分10.60%。[1]  全草加水煮沸20分钟后，滤出液可喷杀菜虫。清热利湿；祛风明目；解毒；杀虫。主风热感冒；黄疸；小儿疳积；痢疾；小便涩痛；目赤涩痛；目赤肿痛；痈肿；寻常疣；疮癣。"
 	},{
-		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/hu_hua.jpg",
+		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/huang_ying_cao.jpg",
 		"name": "",
 		"category": "#",
 		"meaning": "#",
 		"detail": "#"
 	},{
-		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/feng_xin_zi.jpg",
+		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/ji_geng_hua.jpg",
 		"name": "风信子",
 		"category": "#",
 		"meaning": "#",
 		"detail": "#"
 	},{
-		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/feng_xin_zi.jpg",
+		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/jin_yu_cao.jpg",
 		"name": "风信子",
 		"category": "#",
 		"meaning": "#",
 		"detail": "#"
 	},{
-		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/feng_xin_zi.jpg",
+		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/kang_nai_xin.jpg",
 		"name": "风信子",
 		"category": "#",
 		"meaning": "#",
 		"detail": "#"
 	},{
-		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/feng_xin_zi.jpg",
+		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/mei_gui_red.jpg",
 		"name": "风信子",
 		"category": "#",
 		"meaning": "#",
 		"detail": "#"
 	},{
-		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/feng_xin_zi.jpg",
+		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/mei_gui_white.jpg",
 		"name": "风信子",
 		"category": "#",
 		"meaning": "#",
 		"detail": "#"
 	},{
-		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/feng_xin_zi.jpg",
+		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/pu_gong_ying.jpg",
 		"name": "风信子",
 		"category": "#",
 		"meaning": "#",
 		"detail": "#"
 	},{
-		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/feng_xin_zi.jpg",
+		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/qian_niu_hua.jpg",
 		"name": "风信子",
 		"category": "#",
 		"meaning": "#",
 		"detail": "#"
 	},{
-		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/feng_xin_zi.jpg",
+		"url": "https://raw.githubusercontent.com/Hongwing/MiniApp/master/images/qiang_wei.jpg",
 		"name": "风信子",
 		"category": "#",
 		"meaning": "#",
